@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Name : </string>
+    <string name="prenom">Surname : </string>
+    <string name="age">Age :\n</string>
+    <string name="competence">Field of expertise : </string>
+    <string name="telephone">Phone number : </string>
+    <string name="valider">Validate</string>
+    <string name="validation_ok">Data is validated</string>
+    <string name="validation_ko">Please fill in all fields</string>
+    <string name="appeler">Call</string>
+    <string name="phone">telephone_image</string>
+    <string name="ajouter_un_v_nement">Add an event</string>
+    <string name="titre_de_l_v_nement">Event title</string>
+    <string name="description_de_l_v_nement">Event description</string>
+    <string name="ajouter">Add</string>
+    <string name="calendrier">Calendar</string>
+
+</resources>

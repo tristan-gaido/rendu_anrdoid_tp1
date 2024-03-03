@@ -1,0 +1,13 @@
+<!-- event_indicator_circle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Couleur de l'indicateur -->
+    <solid android:color="#FF0000"/> <!-- Rouge -->
+
+    <!-- Taille de l'indicateur -->
+    <size
+        android:width="10dp"
+        android:height="10dp"/>
+
+</shape>

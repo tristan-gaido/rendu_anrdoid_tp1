@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom : </string>
+    <string name="prenom">Prénom : </string>
+    <string name="age">Age :\n</string>
+    <string name="competence">Domaine de compétence : </string>
+    <string name="telephone">Numéro de téléphone : </string>
+    <string name="valider">Valider</string>
+    <string name="validation_ok">Informations validées</string>
+    <string name="validation_ko">Veuillez remplir tous les champs</string>
+    <string name="appeler">Appeler</string>
+    <string name="phone">telephone_image</string>
+    <string name="ajouter_un_v_nement">Ajouter un événement</string>
+    <string name="titre_de_l_v_nement">Titre de l\'événement</string>
+    <string name="description_de_l_v_nement">Description de l\'événement</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="calendrier">Calendrier</string>
+
+</resources>

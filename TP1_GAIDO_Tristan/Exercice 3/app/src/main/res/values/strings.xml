@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prénom :</string>
+    <string name="age">Age :\n</string>
+    <string name="competence">Domaine de compétence :</string>
+    <string name="telephone">Numéro de téléphone :</string>
+</resources>
